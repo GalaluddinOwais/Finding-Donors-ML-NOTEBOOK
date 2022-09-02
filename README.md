@@ -1,7 +1,10 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
-### Install
+### note
+- this project is actually a completion of a template code you can find in there [project to complete](github.com/udacity/cd0025-supervised-learning)
+- this README is a modified README from [project to complete](github.com/udacity/cd0025-supervised-learning), it originally talks to the student to complete the project
+
 
 This project requires **Python 3.x** and the following Python libraries installed:
 
@@ -17,6 +20,8 @@ We recommend students install [Anaconda](https://www.continuum.io/downloads), a 
 ### Code
 
 Template code is provided in the `finding_donors.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `census.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
+
+(the notebook discusses the template codes and asks some questions. all the template codes are correctly completed and all the questions are correctly answered)
 
 ### Run
 
