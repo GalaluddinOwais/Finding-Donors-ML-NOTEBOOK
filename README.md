@@ -1,10 +1,18 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
-### note
-- this project is actually a completion of a template notebook, which you can find in there [notebook to complete](github.com/udacity/cd0025-supervised-learning)
-- this README is a modified README from [the original repository](github.com/udacity/cd0025-supervised-learning). It originally provides instructions to guide the student in completing and submitting the project.
+### Note
+- This project is actually a completion of a template notebook, which you can find in there [notebook to complete](github.com/udacity/cd0025-supervised-learning)
+- This README is a modified README from [the original repository](github.com/udacity/cd0025-supervised-learning). It originally provides instructions to guide the student in completing and submitting the project.
 
+### key Achievements
+- Completed all the codes and answered all the questions correctly as required by Udacity's Machine Learning Cross-Skilling Nanodegree course for course completion
+- Picked three models suitable for the case as driven by intuition and experience and tested their performance on their default settings
+- Picked one of the three models according to the accuracy, F0.5-score, and the time taken to train and predict
+- Optimized the picked model to achieve an accuracy of 86% and F0.5-score 73% 
+- Received a very positive feedback from the reviewer, who described the project as “very impressive” for “the good understanding of the techniques”
+
+### Requirements
 
 This project requires **Python 3.x** and the following Python libraries installed:
 
@@ -19,11 +27,11 @@ We recommend students install [Anaconda](https://www.continuum.io/downloads), a 
 
 ### Code
 
-Template code is provided in the `finding_donors.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `census.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
+Template code (completed) is provided in the `finding_donors.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `census.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
 
 (the notebook discusses the template codes and asks some questions. all the template codes are correctly completed and all the questions are correctly answered)
 
-### Run
+### Execution
 
 In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands:
 
