@@ -2,8 +2,8 @@
 ## Project: Finding Donors for CharityML
 
 ### note
-- this project is actually a completion of a template code you can find in there [project to complete](github.com/udacity/cd0025-supervised-learning)
-- this README is a modified README from [project to complete](github.com/udacity/cd0025-supervised-learning). It originally talks to the student to complete the project
+- this project is actually a completion of a template notebook, which you can find in there [notebook to complete](github.com/udacity/cd0025-supervised-learning)
+- this README is a modified README from [the original repository](github.com/udacity/cd0025-supervised-learning). It originally provides instructions to guide the student in completing and submitting the project.
 
 
 This project requires **Python 3.x** and the following Python libraries installed:
